@@ -1,0 +1,6 @@
+com.ayanne.gamebooster --- 逆向game booster笔记
+eu.tsoml.graphicssettings  --- 逆向gfx tool 第二天
+GameHelper   --- 最终成功，修改吃鸡分辨率，当时吃鸡国服为1.3.6版本。
+
+结论：工具修改了吃鸡的配置文件，所以能够修改吃鸡参数。
+/sdcard/Android/data/com.tencent.tmgp.pubgmhd/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
